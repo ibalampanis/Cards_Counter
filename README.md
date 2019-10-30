@@ -10,3 +10,5 @@ Games Supported: Diloti, Mpirimpa, Tichu
 
 * **Ilias Balampanis** - *Initial work* - (balampanis.ilias@gmail.com)
 
+If you have questions, just send me an email!
+
